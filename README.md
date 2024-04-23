@@ -1,1 +1,1 @@
-# proj
+Projects in Haskell :)
